@@ -6,6 +6,8 @@
 
 - React
 - TailwindCSS
+- Vercel
+- Vite
 
 ## アクセス
 
