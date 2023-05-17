@@ -4,8 +4,8 @@
 
 ## 開発環境
 
--React
--TailwindCSS
+- React
+- TailwindCSS
 
 ## アクセス
 
